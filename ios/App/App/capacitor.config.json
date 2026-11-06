@@ -1,0 +1,19 @@
+{
+	"appId": "com.guanhua.mes",
+	"appName": "冠华MES",
+	"webDir": "www",
+	"server": {
+		"url": "http://10.10.10.10:8000/m",
+		"cleartext": true,
+		"allowNavigation": [
+			"10.10.10.10",
+			"192.168.110.200",
+			"*.cpolar.cn"
+		]
+	},
+	"ios": {
+		"contentInset": "never",
+		"backgroundColor": "#0b5c8f"
+	},
+	"packageClassList": []
+}

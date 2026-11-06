@@ -1,0 +1,7 @@
+node_modules/
+Payload/
+*.ipa
+*.xcuserstate
+xcuserdata/
+ios/App/build/
+.DS_Store
